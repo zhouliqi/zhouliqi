@@ -10,6 +10,4 @@
 
 📫 Email: [zhouliqi1204@gmail.com](mailto:zhouliqi1204@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhouliqi&layout=compact)](https://github.com/Christmas/github-readme-stats)
-
 [![Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouliqi&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
