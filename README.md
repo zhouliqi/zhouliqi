@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎓 Second-year master student at [Wu Han University](https://www.whu.edu.cn/)
+🎓 Third-year master student at [Wu Han University](https://www.whu.edu.cn/)
 
 💻 Interested in database management system and distributed system.
 
