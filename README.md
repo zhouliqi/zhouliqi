@@ -1,6 +1,6 @@
-### Hi there 👋
+### 👋 Hi, I'm Zhou Liqi
 
-🎓 Third-year master student at [Wu Han University](https://www.whu.edu.cn/)
+🎓 Graduated from [Wu Han University](https://www.whu.edu.cn/)
 
 💻 Interested in database management system and distributed system.
 
@@ -10,4 +10,14 @@
 
 📫 Email: [zhouliqi1204@gmail.com](mailto:zhouliqi1204@gmail.com)
 
-[![Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouliqi&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+I am currently looking for new job opportunities. If there are any backend development positions available, please feel free to contact me.
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=zhouliqi&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouliqi&layout=compact&theme=tokyonight" />
+</p>
